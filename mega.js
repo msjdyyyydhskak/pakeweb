@@ -2,8 +2,8 @@ const mega = require('megajs');
 
 // Define user credentials and user agent
 const credentials = {
-  email: 'xejel69588@cigidea.com',
-  password: 'Chamindu2008',
+  email: 'queenrashu1.com',
+  password: 'Rashu#26y6ehdnshsna@#_&',
   userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246'
 };
 
